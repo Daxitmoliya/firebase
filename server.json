@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "name": "abhay",
+      "number": "",
+      "email": "",
+      "pass": "",
+      "id": 1
+    },
+    {
+      "name": "Mark ghghgh",
+      "number": "",
+      "email": "carryminati048@gmail.com",
+      "pass": "",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
